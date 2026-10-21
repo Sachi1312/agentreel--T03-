@@ -1,4 +1,4 @@
-# Somaiya AgentReel — Team T00 (rename the folder to `agentreel-<yourTeamID>`)
+# Somaiya AgentReel — Team T03
 
 An autonomous multi-agent pipeline that turns a `brief.yaml` into a 30–60 s promotional/awareness video for Somaiya.
 **Cost: ₹0** (no paid API anywhere). **Voice: Kokoro-82M neural TTS, offline, works on any laptop CPU (no GPU, no internet after a one-time ~115 MB model download).** **Autonomy level: L3** (end-to-end AI; one mandatory human-review checkpoint for safety/AI briefs).
