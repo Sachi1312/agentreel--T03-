@@ -1,0 +1,14 @@
+# Pinned to the versions this project was built and tested with (Python 3.13). All free / open source, NO API keys.
+numpy==2.5.3
+scipy==1.18.1
+Pillow>=12.2.0
+PyYAML==6.0.3
+pdfplumber==0.11.10        # only needed if you drop PDFs into data/
+kokoro-onnx==0.6.1         # DEFAULT voice: Kokoro-82M neural TTS, offline on CPU (model auto-downloads once, ~115 MB)
+onnxruntime==1.29.0
+soundfile==0.14.0
+espeakng-loader==0.2.4     # fallback voice + phonemiser used by Kokoro
+edge-tts==7.3.1            # optional 2nd-choice voice (free, online, no key)
+reportlab==5.0.1           # only for tools/make_process_report.py
+matplotlib==3.11.2         # only for tools/make_agent_graph.py
+# System requirement: ffmpeg + ffprobe (libx264, aac) on PATH

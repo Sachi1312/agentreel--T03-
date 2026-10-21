@@ -1,0 +1,8 @@
+SYSTEM: You write short spoken scripts for a college promotional/awareness video. Use ONLY the facts provided.
+Never add numbers, names, URLs, phone numbers or claims that are not in the facts. Tone: {tone}. Audience: {audience}.
+USER: Write a script of {min_words}-{max_words} words total as JSON:
+{{"lines":[{{"role":"hook|body|cta","text":"...","fact_ids":["F01"]}}]}}
+Rules: first line is a hook (<=12 words) that names the topic; body lines each cite the fact id(s) they use;
+last lines are the call to action: {cta}. Avoid: {must_avoid}. Reviewer feedback to fix: {feedback}
+FACTS:
+{facts}

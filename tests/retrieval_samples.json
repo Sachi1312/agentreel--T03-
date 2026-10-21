@@ -1,0 +1,12 @@
+[
+ {"q": "What is the national cyber crime helpline number?", "expect": ["F01"]},
+ {"q": "Where can I report cybercrime online?", "expect": ["F02"]},
+ {"q": "Is digital arrest real?", "expect": ["F04"]},
+ {"q": "Can police arrest you over a video call?", "expect": ["F04"]},
+ {"q": "Should I share my OTP or UPI PIN?", "expect": ["F06"]},
+ {"q": "Do real employers ask for a registration fee for a job?", "expect": ["F07"]},
+ {"q": "What should I do if someone is blackmailing me online?", "expect": ["F08"]},
+ {"q": "How quickly should I report a financial fraud?", "expect": ["F03"]},
+ {"q": "What do scammers do to pressure victims?", "expect": ["F05"]},
+ {"q": "Do I need a PIN to receive money?", "expect": ["F06"]}
+]

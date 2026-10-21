@@ -1,0 +1,118 @@
+{
+  "format": "video_9x16",
+  "shots": [
+    {
+      "id": "S1",
+      "script_line": "L1",
+      "visual": "shield",
+      "on_screen_text": "Cyber safety",
+      "description": "teal shield with a check mark",
+      "fact_ids": [],
+      "duration_s": 3.932,
+      "asset_source": "generated: procedural illustration (original)",
+      "start": 0.0
+    },
+    {
+      "id": "S2",
+      "script_line": "L2",
+      "visual": "phone_warning",
+      "on_screen_text": "Digital arrest is a SCAM",
+      "description": "phone showing a caution triangle",
+      "fact_ids": [
+        "F04"
+      ],
+      "duration_s": 8.952,
+      "asset_source": "generated: procedural illustration (original)",
+      "start": 3.932
+    },
+    {
+      "id": "S3",
+      "script_line": "L3",
+      "visual": "phone_call",
+      "on_screen_text": "Pause. Hang up. Talk.",
+      "description": "illustrated phone receiving an unknown call",
+      "fact_ids": [
+        "F05"
+      ],
+      "duration_s": 6.5,
+      "asset_source": "generated: procedural illustration (original)",
+      "start": 12.884
+    },
+    {
+      "id": "S4",
+      "script_line": "L4",
+      "visual": "rupee_lock",
+      "on_screen_text": "Never share OTP or PIN",
+      "description": "rupee coin with shield and padlock",
+      "fact_ids": [
+        "F06"
+      ],
+      "duration_s": 7.029,
+      "asset_source": "generated: procedural illustration (original)",
+      "start": 19.384
+    },
+    {
+      "id": "S5",
+      "script_line": "L5",
+      "visual": "briefcase",
+      "on_screen_text": "Real jobs never ask for fees",
+      "description": "briefcase with a crossed-out fee tag",
+      "fact_ids": [
+        "F07"
+      ],
+      "duration_s": 6.931,
+      "asset_source": "generated: procedural illustration (original)",
+      "start": 26.413
+    },
+    {
+      "id": "S6",
+      "script_line": "L6",
+      "visual": "chat_shield",
+      "on_screen_text": "Not your fault. Don't pay.",
+      "description": "chat bubbles protected by a shield",
+      "fact_ids": [
+        "F08"
+      ],
+      "duration_s": 7.987,
+      "asset_source": "generated: procedural illustration (original)",
+      "start": 33.344
+    },
+    {
+      "id": "S7",
+      "script_line": "L7",
+      "visual": "big_text:1930",
+      "on_screen_text": "Helpline: 1930",
+      "description": "ring badge with the helpline number",
+      "fact_ids": [
+        "F01"
+      ],
+      "duration_s": 4.351,
+      "asset_source": "generated: procedural illustration (original)",
+      "start": 41.331
+    },
+    {
+      "id": "S8",
+      "script_line": "L8",
+      "visual": "portal:cybercrime.gov.in",
+      "on_screen_text": "Report online",
+      "description": "browser window with the reporting portal",
+      "fact_ids": [
+        "F02"
+      ],
+      "duration_s": 5.345,
+      "asset_source": "generated: procedural illustration (original)",
+      "start": 45.682
+    },
+    {
+      "id": "S9",
+      "script_line": null,
+      "visual": "endcard",
+      "on_screen_text": "Report cybercrime: call 1930 or visit cybercrime.gov.in",
+      "description": "logo, call to action, AI-disclosure line",
+      "fact_ids": [],
+      "duration_s": 4.5,
+      "asset_source": "official: logo (assets/logo_placeholder.png) + generated text",
+      "start": 51.027
+    }
+  ]
+}

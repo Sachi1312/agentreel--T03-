@@ -1,0 +1,6 @@
+asset,type,source,licence
+assets/vo.wav,voice-over,TTS: kokoro-v1.0-int8:af_heart,generated; free TTS (no real person's voice cloned)
+assets/music.wav,music,"synthesised in code (core/music.py, seed=42)","original work, CC0"
+illustrations (frames),images,procedural drawing in core/visuals.py,"original work, CC0"
+assets/fonts/Poppins-*.ttf,font,Google Fonts: Poppins,SIL Open Font License 1.1
+assets/logo.png,logo,official Somaiya Vidyavihar logo supplied by the team (assets/logo_original.png; only empty margins cropped),institution-owned; used unmodified on a white card

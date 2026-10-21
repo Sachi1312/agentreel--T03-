@@ -1,0 +1,124 @@
+{
+  "facts": [
+    {
+      "id": "F01",
+      "claim": "The National Cyber Crime Helpline number is 1930.",
+      "tags": [
+        "helpline",
+        "report"
+      ],
+      "source": "National Cyber Crime Reporting Portal, I4C (cybercrime.gov.in)",
+      "page": "1",
+      "headline": "Helpline: 1930",
+      "visual": "big_text:1930",
+      "score": 6.146,
+      "query": "helpline 1930"
+    },
+    {
+      "id": "F02",
+      "claim": "You can also report cybercrime online at cybercrime.gov.in.",
+      "tags": [
+        "report",
+        "portal"
+      ],
+      "source": "National Cyber Crime Reporting Portal, I4C (cybercrime.gov.in)",
+      "page": "1",
+      "headline": "Report online",
+      "visual": "portal:cybercrime.gov.in",
+      "score": 4.998,
+      "query": "cybercrime.gov.in"
+    },
+    {
+      "id": "F03",
+      "claim": "If money is lost to a fraud, report it immediately, because early reporting helps authorities act.",
+      "tags": [
+        "report",
+        "money"
+      ],
+      "source": "I4C public awareness advisory on financial fraud",
+      "page": "1",
+      "headline": "Report immediately",
+      "visual": "shield",
+      "score": 1.805,
+      "query": "fake-job frauds"
+    },
+    {
+      "id": "F04",
+      "claim": "Digital arrest is a scam. No police officer or agency arrests anyone, or demands money, over a phone or video call.",
+      "tags": [
+        "scam",
+        "digital arrest"
+      ],
+      "source": "MHA / I4C public advisory on digital arrest scams",
+      "page": "1",
+      "headline": "Digital arrest is a SCAM",
+      "visual": "phone_warning",
+      "score": 7.814,
+      "query": "digital arrest scams"
+    },
+    {
+      "id": "F05",
+      "claim": "Scammers create fear, urgency and secrecy. Pause, hang up, and talk to someone you trust.",
+      "tags": [
+        "scam",
+        "pressure"
+      ],
+      "source": "I4C public awareness advisory on cyber frauds",
+      "page": "1",
+      "headline": "Pause. Hang up. Talk.",
+      "visual": "phone_call",
+      "score": 1.218,
+      "query": "digital arrest scams"
+    },
+    {
+      "id": "F06",
+      "claim": "Never share your OTP, UPI PIN or card details. You never need a PIN to receive money.",
+      "tags": [
+        "upi",
+        "otp",
+        "payment"
+      ],
+      "source": "RBI / NPCI public awareness advisory on digital payment fraud",
+      "page": "1",
+      "headline": "Never share OTP or PIN",
+      "visual": "rupee_lock",
+      "score": 2.372,
+      "query": "UPI"
+    },
+    {
+      "id": "F07",
+      "claim": "Genuine employers do not ask for registration fees or security deposits for a job.",
+      "tags": [
+        "job",
+        "fee"
+      ],
+      "source": "I4C public awareness advisory on fake job offers",
+      "page": "1",
+      "headline": "Real jobs never ask for fees",
+      "visual": "briefcase",
+      "score": 2.573,
+      "query": "fake-job frauds"
+    },
+    {
+      "id": "F08",
+      "claim": "If someone threatens you online, do not pay. Save the chats, block the account and report it. It is not your fault.",
+      "tags": [
+        "sextortion",
+        "harassment"
+      ],
+      "source": "I4C public awareness advisory on sextortion",
+      "page": "1",
+      "headline": "Not your fault. Don't pay.",
+      "visual": "chat_shield",
+      "score": 1.753,
+      "query": "sextortion"
+    }
+  ],
+  "gaps": [
+    {
+      "query": "what should you do",
+      "reason": "no supporting source found"
+    }
+  ],
+  "corpus_size": 8
+}

@@ -1,0 +1,86 @@
+{
+  "method": "rules",
+  "lines": [
+    {
+      "role": "hook",
+      "text": "Cyber safety. Five things every student must know.",
+      "fact_ids": [],
+      "id": "L1",
+      "words": 8
+    },
+    {
+      "role": "body",
+      "text": "First, digital arrest is a scam. No police officer or agency arrests anyone, or demands money, over a phone or video call.",
+      "fact_ids": [
+        "F04"
+      ],
+      "id": "L2",
+      "words": 22
+    },
+    {
+      "role": "body",
+      "text": "Next, scammers create fear, urgency and secrecy. Pause, hang up, and talk to someone you trust.",
+      "fact_ids": [
+        "F05"
+      ],
+      "id": "L3",
+      "words": 16
+    },
+    {
+      "role": "body",
+      "text": "Also, never share your OTP, UPI PIN or card details. You never need a PIN to receive money.",
+      "fact_ids": [
+        "F06"
+      ],
+      "id": "L4",
+      "words": 18
+    },
+    {
+      "role": "body",
+      "text": "And remember, genuine employers do not ask for registration fees or security deposits for a job.",
+      "fact_ids": [
+        "F07"
+      ],
+      "id": "L5",
+      "words": 16
+    },
+    {
+      "role": "body",
+      "text": "And remember, if someone threatens you online, do not pay. Save the chats, block the account and report it. It is not your fault.",
+      "fact_ids": [
+        "F08"
+      ],
+      "id": "L6",
+      "words": 24
+    },
+    {
+      "role": "cta",
+      "text": "The National Cyber Crime Helpline number is 1930.",
+      "fact_ids": [
+        "F01"
+      ],
+      "id": "L7",
+      "words": 8
+    },
+    {
+      "role": "cta",
+      "text": "You can also report cybercrime online at cybercrime.gov.in.",
+      "fact_ids": [
+        "F02"
+      ],
+      "id": "L8",
+      "words": 8
+    }
+  ],
+  "word_count": 120,
+  "tokens": {
+    "input": 0,
+    "output": 0
+  },
+  "feedback_applied": {
+    "notes": [
+      "duration: 62.20s (allowed 30.0-60.0s, brief target 80.0s)"
+    ],
+    "max_words": 124
+  }
+}

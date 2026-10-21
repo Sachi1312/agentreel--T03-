@@ -1,0 +1,104 @@
+1
+00:00:00,250 --> 00:00:01,134
+Cyber safety.
+
+2
+00:00:01,134 --> 00:00:03,582
+Five things every student must know.
+
+3
+00:00:04,182 --> 00:00:04,607
+First,
+
+4
+00:00:04,607 --> 00:00:06,376
+digital arrest is a scam.
+
+5
+00:00:06,376 --> 00:00:09,420
+No police officer or agency arrests anyone,
+
+6
+00:00:09,420 --> 00:00:10,623
+or demands money,
+
+7
+00:00:10,623 --> 00:00:12,534
+over a phone or video call.
+
+8
+00:00:13,134 --> 00:00:13,455
+Next,
+
+9
+00:00:13,455 --> 00:00:14,801
+scammers create fear,
+
+10
+00:00:14,801 --> 00:00:17,110
+urgency and secrecy. Pause, hang up,
+
+11
+00:00:17,110 --> 00:00:19,034
+and talk to someone you trust.
+
+12
+00:00:19,634 --> 00:00:19,999
+Also,
+
+13
+00:00:19,999 --> 00:00:21,533
+never share your OTP,
+
+14
+00:00:21,533 --> 00:00:23,287
+UPI PIN or card details.
+
+15
+00:00:23,287 --> 00:00:26,063
+You never need a PIN to receive money.
+
+16
+00:00:26,663 --> 00:00:27,539
+And remember,
+
+17
+00:00:27,539 --> 00:00:31,108
+genuine employers do not ask for registration fees or
+
+18
+00:00:31,108 --> 00:00:32,994
+security deposits for a job.
+
+19
+00:00:33,594 --> 00:00:34,368
+And remember,
+
+20
+00:00:34,368 --> 00:00:36,275
+if someone threatens you online,
+
+21
+00:00:36,275 --> 00:00:36,930
+do not pay.
+
+22
+00:00:36,930 --> 00:00:37,824
+Save the chats,
+
+23
+00:00:37,824 --> 00:00:39,730
+block the account and report it.
+
+24
+00:00:39,730 --> 00:00:40,981
+It is not your fault.
+
+25
+00:00:41,581 --> 00:00:45,332
+The National Cyber Crime Helpline number is 1930.
+
+26
+00:00:45,932 --> 00:00:50,677
+You can also report cybercrime online at cybercrime.gov.in.
+

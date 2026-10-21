@@ -1,0 +1,86 @@
+{
+  "brief_id": "A95",
+  "format": "video_9x16",
+  "duration_s": 80.0,
+  "endcard_s": 4.5,
+  "word_budget": {
+    "min": 144,
+    "max": 170
+  },
+  "sensitive": true,
+  "subtopics": [
+    "Cyber safety",
+    "digital arrest scams",
+    "UPI",
+    "fake-job frauds",
+    "sextortion",
+    "helpline 1930"
+  ],
+  "queries": [
+    "Cyber safety",
+    "digital arrest scams",
+    "UPI",
+    "fake-job frauds",
+    "sextortion",
+    "helpline 1930",
+    "1930",
+    "cybercrime.gov.in",
+    "how to report",
+    "what should you do"
+  ],
+  "stages": [
+    {
+      "agent": "planner",
+      "time_budget_s": 18,
+      "cost_budget_inr": 0.0
+    },
+    {
+      "agent": "researcher",
+      "time_budget_s": 72,
+      "cost_budget_inr": 0.0
+    },
+    {
+      "agent": "scriptwriter",
+      "time_budget_s": 180,
+      "cost_budget_inr": 0.0
+    },
+    {
+      "agent": "storyboarder",
+      "time_budget_s": 90,
+      "cost_budget_inr": 0.0
+    },
+    {
+      "agent": "asset_generator",
+      "time_budget_s": 540,
+      "cost_budget_inr": 0.0
+    },
+    {
+      "agent": "editor",
+      "time_budget_s": 540,
+      "cost_budget_inr": 0.0
+    },
+    {
+      "agent": "critic",
+      "time_budget_s": 90,
+      "cost_budget_inr": 0.0
+    },
+    {
+      "agent": "human_review",
+      "time_budget_s": 270,
+      "cost_budget_inr": 0.0
+    }
+  ],
+  "total_budget_inr": 500.0,
+  "planned_spend_inr": 0.0,
+  "max_critic_loops": 3,
+  "success_criteria": [
+    "duration 30.0-60.0s (target 80.0s)",
+    "every claim cites a fact id; numbers/URLs/phones exist in fact sheet",
+    "hook names the topic in first 3 s",
+    "burned-in captions >=48px inside safe zones + .srt",
+    "loudness -14.0\u00b11.5 LUFS, true peak <= -1.0 dBTP",
+    "end card: logo + CTA + AI-disclosure line",
+    "must_include present, must_avoid absent",
+    "mandatory human review before export"
+  ]
+}

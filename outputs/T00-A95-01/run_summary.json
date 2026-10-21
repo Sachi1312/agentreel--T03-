@@ -1,0 +1,18 @@
+{
+  "run_id": "T00-A95-01",
+  "passed_qa": true,
+  "approved": true,
+  "loops": 1,
+  "wall_time_s": 544.4,
+  "total_cost_inr": 0.0,
+  "human_interventions_counted": 0,
+  "measured": {
+    "duration_s": 55.53,
+    "lufs": -14.1,
+    "true_peak": -1.9,
+    "size_mb": 5.8
+  },
+  "llm": "rule-engine-v1",
+  "tts": "kokoro-v1.0-int8:af_heart",
+  "seed": 7
+}

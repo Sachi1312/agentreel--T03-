@@ -1,0 +1,11 @@
+id: A95
+category: Campus Safety & Wellbeing
+topic: "Cyber safety: digital arrest scams, UPI and fake-job frauds, sextortion; helpline 1930"
+audience: all students
+format: video_9x16          # or video_16x9 / digital_experience
+duration_s: 80
+tone: reassuring, clear, non-alarming
+language: English
+must_include: ["1930", "cybercrime.gov.in"]
+must_avoid: [depiction of victims, fear-based imagery, blame]
+cta: "Report cybercrime: call 1930 or visit cybercrime.gov.in"

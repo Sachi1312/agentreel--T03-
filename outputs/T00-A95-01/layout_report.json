@@ -1,0 +1,1558 @@
+{
+ "w": 1080,
+ "h": 1920,
+ "safe": [
+  250,
+  1570
+ ],
+ "items": [
+  {
+   "shot": "S1",
+   "kind": "headline",
+   "text": "Cyber safety",
+   "font_px": 74,
+   "bbox": [
+    297,
+    1030,
+    784,
+    1108
+   ]
+  },
+  {
+   "shot": "S1",
+   "kind": "caption",
+   "text": "Five things every student must",
+   "font_px": 58,
+   "bbox": [
+    80,
+    1314,
+    999,
+    1377
+   ]
+  },
+  {
+   "shot": "S1",
+   "kind": "caption",
+   "text": "know.",
+   "font_px": 58,
+   "bbox": [
+    451,
+    1388,
+    629,
+    1431
+   ]
+  },
+  {
+   "shot": "S1",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    54.4609375,
+    1274,
+    1025.5390625,
+    1471
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "headline",
+   "text": "Digital arrest is a SCAM",
+   "font_px": 74,
+   "bbox": [
+    100,
+    1028,
+    981,
+    1108
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption",
+   "text": "digital arrest is a scam.",
+   "font_px": 58,
+   "bbox": [
+    192,
+    1314,
+    888,
+    1377
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    165.84375,
+    1274,
+    914.15625,
+    1398
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "headline",
+   "text": "Pause. Hang up. Talk.",
+   "font_px": 74,
+   "bbox": [
+    135,
+    1033,
+    944,
+    1108
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "caption",
+   "text": "scammers create fear,",
+   "font_px": 58,
+   "bbox": [
+    201,
+    1315,
+    880,
+    1369
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    174.5234375,
+    1274,
+    905.4765625,
+    1398
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "headline",
+   "text": "Never share OTP or PIN",
+   "font_px": 74,
+   "bbox": [
+    112,
+    1033,
+    969,
+    1089
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "caption",
+   "text": "never share your OTP,",
+   "font_px": 58,
+   "bbox": [
+    215,
+    1318,
+    865,
+    1377
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    188.890625,
+    1274,
+    891.109375,
+    1398
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "headline",
+   "text": "Real jobs never ask for",
+   "font_px": 74,
+   "bbox": [
+    115,
+    1029,
+    966,
+    1108
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "headline",
+   "text": "fees",
+   "font_px": 74,
+   "bbox": [
+    460,
+    1120,
+    619,
+    1179
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "caption",
+   "text": "genuine employers do not ask",
+   "font_px": 58,
+   "bbox": [
+    91,
+    1314,
+    990,
+    1377
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "caption",
+   "text": "for registration fees or",
+   "font_px": 58,
+   "bbox": [
+    210,
+    1384,
+    870,
+    1447
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    64.953125,
+    1274,
+    1015.046875,
+    1471
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "Not your fault. Don't",
+   "font_px": 74,
+   "bbox": [
+    164,
+    1029,
+    916,
+    1108
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "pay.",
+   "font_px": 74,
+   "bbox": [
+    456,
+    1136,
+    624,
+    1198
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption",
+   "text": "if someone threatens you",
+   "font_px": 58,
+   "bbox": [
+    160,
+    1314,
+    919,
+    1377
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption",
+   "text": "online,",
+   "font_px": 58,
+   "bbox": [
+    439,
+    1384,
+    641,
+    1439
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    134.4296875,
+    1274,
+    945.5703125,
+    1471
+   ]
+  },
+  {
+   "shot": "S7",
+   "kind": "headline",
+   "text": "Helpline: 1930",
+   "font_px": 74,
+   "bbox": [
+    283,
+    1028,
+    797,
+    1108
+   ]
+  },
+  {
+   "shot": "S7",
+   "kind": "caption",
+   "text": "The National Cyber Crime",
+   "font_px": 58,
+   "bbox": [
+    157,
+    1314,
+    923,
+    1377
+   ]
+  },
+  {
+   "shot": "S7",
+   "kind": "caption",
+   "text": "Helpline number is 1930.",
+   "font_px": 58,
+   "bbox": [
+    182,
+    1384,
+    898,
+    1447
+   ]
+  },
+  {
+   "shot": "S7",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    130.8671875,
+    1274,
+    949.1328125,
+    1471
+   ]
+  },
+  {
+   "shot": "S8",
+   "kind": "headline",
+   "text": "Report online",
+   "font_px": 74,
+   "bbox": [
+    288,
+    1028,
+    793,
+    1108
+   ]
+  },
+  {
+   "shot": "S8",
+   "kind": "caption",
+   "text": "You can also report cybercrime",
+   "font_px": 58,
+   "bbox": [
+    72,
+    1314,
+    1008,
+    1377
+   ]
+  },
+  {
+   "shot": "S8",
+   "kind": "caption",
+   "text": "online at cybercrime.gov.in.",
+   "font_px": 58,
+   "bbox": [
+    122,
+    1384,
+    958,
+    1447
+   ]
+  },
+  {
+   "shot": "S8",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    46.671875,
+    1274,
+    1033.328125,
+    1471
+   ]
+  },
+  {
+   "shot": "S9",
+   "kind": "cta",
+   "text": "Report cybercrime: call 1930",
+   "font_px": 62,
+   "bbox": [
+    93,
+    625,
+    987,
+    690
+   ]
+  },
+  {
+   "shot": "S9",
+   "kind": "cta",
+   "text": "or visit cybercrime.gov.in",
+   "font_px": 62,
+   "bbox": [
+    134,
+    700,
+    947,
+    766
+   ]
+  },
+  {
+   "shot": "S9",
+   "kind": "disclosure",
+   "text": "Created with AI agents \u2014 LY Agentic AI Lab",
+   "font_px": 40,
+   "bbox": [
+    112,
+    846,
+    968,
+    889
+   ]
+  },
+  {
+   "shot": "S1",
+   "kind": "headline",
+   "text": "Cyber safety",
+   "font_px": 74,
+   "bbox": [
+    297,
+    1030,
+    784,
+    1108
+   ]
+  },
+  {
+   "shot": "S1",
+   "kind": "caption",
+   "text": "Cyber safety.",
+   "font_px": 58,
+   "bbox": [
+    341,
+    1315,
+    739,
+    1377
+   ]
+  },
+  {
+   "shot": "S1",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    315.0,
+    1274,
+    765.0,
+    1398
+   ]
+  },
+  {
+   "shot": "S1",
+   "kind": "headline",
+   "text": "Cyber safety",
+   "font_px": 74,
+   "bbox": [
+    297,
+    1030,
+    784,
+    1108
+   ]
+  },
+  {
+   "shot": "S1",
+   "kind": "caption",
+   "text": "Five things every student must",
+   "font_px": 58,
+   "bbox": [
+    80,
+    1314,
+    999,
+    1377
+   ]
+  },
+  {
+   "shot": "S1",
+   "kind": "caption",
+   "text": "know.",
+   "font_px": 58,
+   "bbox": [
+    451,
+    1388,
+    629,
+    1431
+   ]
+  },
+  {
+   "shot": "S1",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    54.4609375,
+    1274,
+    1025.5390625,
+    1471
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "headline",
+   "text": "Digital arrest is a SCAM",
+   "font_px": 74,
+   "bbox": [
+    100,
+    1028,
+    981,
+    1108
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption",
+   "text": "First,",
+   "font_px": 58,
+   "bbox": [
+    467,
+    1314,
+    613,
+    1369
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    440.8984375,
+    1274,
+    639.1015625,
+    1398
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "headline",
+   "text": "Digital arrest is a SCAM",
+   "font_px": 74,
+   "bbox": [
+    100,
+    1028,
+    981,
+    1108
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption",
+   "text": "digital arrest is a scam.",
+   "font_px": 58,
+   "bbox": [
+    192,
+    1314,
+    888,
+    1377
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    165.84375,
+    1274,
+    914.15625,
+    1398
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "headline",
+   "text": "Digital arrest is a SCAM",
+   "font_px": 74,
+   "bbox": [
+    100,
+    1028,
+    981,
+    1108
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption",
+   "text": "No police officer or agency",
+   "font_px": 58,
+   "bbox": [
+    145,
+    1314,
+    935,
+    1377
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption",
+   "text": "arrests anyone,",
+   "font_px": 58,
+   "bbox": [
+    306,
+    1390,
+    775,
+    1447
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    119.1484375,
+    1274,
+    960.8515625,
+    1471
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "headline",
+   "text": "Digital arrest is a SCAM",
+   "font_px": 74,
+   "bbox": [
+    100,
+    1028,
+    981,
+    1108
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption",
+   "text": "or demands money,",
+   "font_px": 58,
+   "bbox": [
+    240,
+    1318,
+    840,
+    1377
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    214.1953125,
+    1274,
+    865.8046875,
+    1398
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "headline",
+   "text": "Digital arrest is a SCAM",
+   "font_px": 74,
+   "bbox": [
+    100,
+    1028,
+    981,
+    1108
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption",
+   "text": "over a phone or video call.",
+   "font_px": 58,
+   "bbox": [
+    151,
+    1314,
+    928,
+    1377
+   ]
+  },
+  {
+   "shot": "S2",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    125.375,
+    1274,
+    954.625,
+    1398
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "headline",
+   "text": "Pause. Hang up. Talk.",
+   "font_px": 74,
+   "bbox": [
+    135,
+    1035,
+    944,
+    1110
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "caption",
+   "text": "Next,",
+   "font_px": 58,
+   "bbox": [
+    463,
+    1320,
+    617,
+    1369
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    437.1796875,
+    1274,
+    642.8203125,
+    1398
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "headline",
+   "text": "Pause. Hang up. Talk.",
+   "font_px": 74,
+   "bbox": [
+    135,
+    1033,
+    944,
+    1108
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "caption",
+   "text": "scammers create fear,",
+   "font_px": 58,
+   "bbox": [
+    201,
+    1315,
+    880,
+    1369
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    174.5234375,
+    1274,
+    905.4765625,
+    1398
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "headline",
+   "text": "Pause. Hang up. Talk.",
+   "font_px": 74,
+   "bbox": [
+    135,
+    1033,
+    944,
+    1108
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "caption",
+   "text": "urgency and secrecy. Pause,",
+   "font_px": 58,
+   "bbox": [
+    112,
+    1318,
+    968,
+    1377
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "caption",
+   "text": "hang up,",
+   "font_px": 58,
+   "bbox": [
+    408,
+    1388,
+    672,
+    1447
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    86.0703125,
+    1274,
+    993.9296875,
+    1471
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "headline",
+   "text": "Pause. Hang up. Talk.",
+   "font_px": 74,
+   "bbox": [
+    135,
+    1033,
+    944,
+    1108
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "caption",
+   "text": "and talk to someone you trust.",
+   "font_px": 58,
+   "bbox": [
+    87,
+    1318,
+    993,
+    1377
+   ]
+  },
+  {
+   "shot": "S3",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    60.8046875,
+    1274,
+    1019.1953125,
+    1398
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "headline",
+   "text": "Never share OTP or PIN",
+   "font_px": 74,
+   "bbox": [
+    112,
+    1034,
+    969,
+    1090
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "caption",
+   "text": "Also,",
+   "font_px": 58,
+   "bbox": [
+    467,
+    1318,
+    613,
+    1369
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    441.09375,
+    1274,
+    638.90625,
+    1398
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "headline",
+   "text": "Never share OTP or PIN",
+   "font_px": 74,
+   "bbox": [
+    112,
+    1033,
+    969,
+    1089
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "caption",
+   "text": "never share your OTP,",
+   "font_px": 58,
+   "bbox": [
+    215,
+    1318,
+    865,
+    1377
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    188.890625,
+    1274,
+    891.109375,
+    1398
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "headline",
+   "text": "Never share OTP or PIN",
+   "font_px": 74,
+   "bbox": [
+    112,
+    1033,
+    969,
+    1089
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "caption",
+   "text": "UPI PIN or card details.",
+   "font_px": 58,
+   "bbox": [
+    209,
+    1314,
+    871,
+    1361
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    183.1484375,
+    1274,
+    896.8515625,
+    1398
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "headline",
+   "text": "Never share OTP or PIN",
+   "font_px": 74,
+   "bbox": [
+    112,
+    1033,
+    969,
+    1089
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "caption",
+   "text": "You never need a PIN to receive",
+   "font_px": 58,
+   "bbox": [
+    75,
+    1314,
+    1004,
+    1361
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "caption",
+   "text": "money.",
+   "font_px": 58,
+   "bbox": [
+    427,
+    1398,
+    653,
+    1447
+   ]
+  },
+  {
+   "shot": "S4",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    50.140625,
+    1274,
+    1029.859375,
+    1471
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "headline",
+   "text": "Real jobs never ask for",
+   "font_px": 74,
+   "bbox": [
+    115,
+    1029,
+    966,
+    1108
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "headline",
+   "text": "fees",
+   "font_px": 74,
+   "bbox": [
+    460,
+    1120,
+    619,
+    1179
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "caption",
+   "text": "And remember,",
+   "font_px": 58,
+   "bbox": [
+    305,
+    1318,
+    774,
+    1369
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    279.3828125,
+    1274,
+    800.6171875,
+    1398
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "headline",
+   "text": "Real jobs never ask for",
+   "font_px": 74,
+   "bbox": [
+    115,
+    1029,
+    966,
+    1108
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "headline",
+   "text": "fees",
+   "font_px": 74,
+   "bbox": [
+    460,
+    1120,
+    619,
+    1179
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "caption",
+   "text": "genuine employers do not ask",
+   "font_px": 58,
+   "bbox": [
+    91,
+    1314,
+    990,
+    1377
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "caption",
+   "text": "for registration fees or",
+   "font_px": 58,
+   "bbox": [
+    210,
+    1384,
+    870,
+    1447
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    64.953125,
+    1274,
+    1015.046875,
+    1471
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "headline",
+   "text": "Real jobs never ask for",
+   "font_px": 74,
+   "bbox": [
+    115,
+    1029,
+    966,
+    1108
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "headline",
+   "text": "fees",
+   "font_px": 74,
+   "bbox": [
+    460,
+    1120,
+    619,
+    1179
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "caption",
+   "text": "security deposits for a job.",
+   "font_px": 58,
+   "bbox": [
+    149,
+    1314,
+    931,
+    1377
+   ]
+  },
+  {
+   "shot": "S5",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    122.90625,
+    1274,
+    957.09375,
+    1398
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "Not your fault. Don't",
+   "font_px": 74,
+   "bbox": [
+    164,
+    1029,
+    916,
+    1108
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "pay.",
+   "font_px": 74,
+   "bbox": [
+    456,
+    1136,
+    624,
+    1198
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption",
+   "text": "And remember,",
+   "font_px": 58,
+   "bbox": [
+    305,
+    1318,
+    774,
+    1369
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    279.3828125,
+    1274,
+    800.6171875,
+    1398
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "Not your fault. Don't",
+   "font_px": 74,
+   "bbox": [
+    164,
+    1029,
+    916,
+    1108
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "pay.",
+   "font_px": 74,
+   "bbox": [
+    456,
+    1136,
+    624,
+    1198
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption",
+   "text": "if someone threatens you",
+   "font_px": 58,
+   "bbox": [
+    160,
+    1314,
+    919,
+    1377
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption",
+   "text": "online,",
+   "font_px": 58,
+   "bbox": [
+    439,
+    1384,
+    641,
+    1439
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    134.4296875,
+    1274,
+    945.5703125,
+    1471
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "Not your fault. Don't",
+   "font_px": 74,
+   "bbox": [
+    164,
+    1029,
+    916,
+    1108
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "pay.",
+   "font_px": 74,
+   "bbox": [
+    456,
+    1136,
+    624,
+    1198
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption",
+   "text": "do not pay.",
+   "font_px": 58,
+   "bbox": [
+    374,
+    1318,
+    706,
+    1377
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    347.859375,
+    1274,
+    732.140625,
+    1398
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "Not your fault. Don't",
+   "font_px": 74,
+   "bbox": [
+    164,
+    1029,
+    916,
+    1108
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "pay.",
+   "font_px": 74,
+   "bbox": [
+    456,
+    1136,
+    624,
+    1198
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption",
+   "text": "Save the chats,",
+   "font_px": 58,
+   "bbox": [
+    312,
+    1318,
+    768,
+    1369
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    285.9140625,
+    1274,
+    794.0859375,
+    1398
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "Not your fault. Don't",
+   "font_px": 74,
+   "bbox": [
+    164,
+    1029,
+    916,
+    1108
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "pay.",
+   "font_px": 74,
+   "bbox": [
+    456,
+    1136,
+    624,
+    1198
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption",
+   "text": "block the account and report it.",
+   "font_px": 58,
+   "bbox": [
+    74,
+    1314,
+    1007,
+    1377
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    47.6953125,
+    1274,
+    1032.3046875,
+    1398
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "Not your fault. Don't",
+   "font_px": 74,
+   "bbox": [
+    164,
+    1029,
+    916,
+    1108
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "headline",
+   "text": "pay.",
+   "font_px": 74,
+   "bbox": [
+    456,
+    1136,
+    624,
+    1198
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption",
+   "text": "It is not your fault.",
+   "font_px": 58,
+   "bbox": [
+    274,
+    1314,
+    807,
+    1377
+   ]
+  },
+  {
+   "shot": "S6",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    247.6015625,
+    1274,
+    832.3984375,
+    1398
+   ]
+  },
+  {
+   "shot": "S7",
+   "kind": "headline",
+   "text": "Helpline: 1930",
+   "font_px": 74,
+   "bbox": [
+    283,
+    1028,
+    797,
+    1108
+   ]
+  },
+  {
+   "shot": "S7",
+   "kind": "caption",
+   "text": "The National Cyber Crime",
+   "font_px": 58,
+   "bbox": [
+    157,
+    1314,
+    923,
+    1377
+   ]
+  },
+  {
+   "shot": "S7",
+   "kind": "caption",
+   "text": "Helpline number is 1930.",
+   "font_px": 58,
+   "bbox": [
+    182,
+    1384,
+    898,
+    1447
+   ]
+  },
+  {
+   "shot": "S7",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    130.8671875,
+    1274,
+    949.1328125,
+    1471
+   ]
+  },
+  {
+   "shot": "S8",
+   "kind": "headline",
+   "text": "Report online",
+   "font_px": 74,
+   "bbox": [
+    288,
+    1028,
+    793,
+    1108
+   ]
+  },
+  {
+   "shot": "S8",
+   "kind": "caption",
+   "text": "You can also report cybercrime",
+   "font_px": 58,
+   "bbox": [
+    72,
+    1314,
+    1008,
+    1377
+   ]
+  },
+  {
+   "shot": "S8",
+   "kind": "caption",
+   "text": "online at cybercrime.gov.in.",
+   "font_px": 58,
+   "bbox": [
+    122,
+    1384,
+    958,
+    1447
+   ]
+  },
+  {
+   "shot": "S8",
+   "kind": "caption_box",
+   "text": "",
+   "font_px": 58,
+   "bbox": [
+    46.671875,
+    1274,
+    1033.328125,
+    1471
+   ]
+  }
+ ]
+}

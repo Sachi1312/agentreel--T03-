@@ -1,0 +1,124 @@
+{
+  "passed": false,
+  "checks": [
+    {
+      "id": "fact_grounding",
+      "passed": true,
+      "detail": "9 lines checked against facts.json",
+      "owner": "scriptwriter",
+      "avoid_fact_ids": []
+    },
+    {
+      "id": "contacts_verified",
+      "passed": true,
+      "detail": "contacts used: ['1930', 'cybercrime.gov.in']; not in fact sheet: []",
+      "owner": "scriptwriter"
+    },
+    {
+      "id": "no_placeholders",
+      "passed": true,
+      "detail": "no template/placeholder text in spoken or on-screen text",
+      "owner": "scriptwriter"
+    },
+    {
+      "id": "must_include",
+      "passed": true,
+      "detail": "all present",
+      "owner": "scriptwriter"
+    },
+    {
+      "id": "must_avoid",
+      "passed": true,
+      "detail": "none present",
+      "owner": "scriptwriter"
+    },
+    {
+      "id": "hook_topic",
+      "passed": true,
+      "detail": "topic words ['cyber', 'safety'] in hook; hook caption/headline visible from t=0.25s",
+      "owner": "scriptwriter"
+    },
+    {
+      "id": "end_card",
+      "passed": true,
+      "detail": "endcard CTA verified=True; elements rendered=['cta', 'disclosure']; disclosure rendered=True",
+      "owner": "editor"
+    },
+    {
+      "id": "safe_zones_and_caption_size",
+      "passed": true,
+      "detail": "142 text boxes measured, safe y-range 250-1570; violations=0, undersized captions=0",
+      "owner": "editor"
+    },
+    {
+      "id": "storyboard",
+      "passed": true,
+      "detail": "10 shots; all script lines covered=True",
+      "owner": "storyboarder"
+    },
+    {
+      "id": "duration",
+      "passed": false,
+      "detail": "62.20s (allowed 30.0-60.0s, brief target 80.0s)",
+      "owner": "scriptwriter",
+      "max_words": 124,
+      "min_words": null
+    },
+    {
+      "id": "resolution",
+      "passed": true,
+      "detail": "1080x1920 (need 1080x1920)",
+      "owner": "editor"
+    },
+    {
+      "id": "frame_rate",
+      "passed": true,
+      "detail": "30/1 constant",
+      "owner": "editor"
+    },
+    {
+      "id": "video_codec",
+      "passed": true,
+      "detail": "h264 High yuv420p",
+      "owner": "editor"
+    },
+    {
+      "id": "audio_codec",
+      "passed": true,
+      "detail": "aac 48000Hz 2ch 162kbps",
+      "owner": "editor"
+    },
+    {
+      "id": "file_size",
+      "passed": true,
+      "detail": "6.4 MB (max 100)",
+      "owner": "editor"
+    },
+    {
+      "id": "container_name",
+      "passed": true,
+      "detail": "T00_A95_final.mp4",
+      "owner": "editor"
+    },
+    {
+      "id": "loudness",
+      "passed": true,
+      "detail": "integrated -14.1 LUFS (target -14.0±1.5), true peak -1.9 dBTP (max -1.0)",
+      "owner": "editor",
+      "lufs_offset": 0.1
+    },
+    {
+      "id": "subtitles_srt",
+      "passed": true,
+      "detail": "/home/claude/agentreel-T00/outputs/T00-A95-01/captions.srt",
+      "owner": "asset_generator"
+    }
+  ],
+  "measured": {
+    "duration_s": 62.2,
+    "lufs": -14.1,
+    "true_peak": -1.9,
+    "size_mb": 6.44
+  },
+  "loop": 0
+}
